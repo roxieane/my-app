@@ -34,6 +34,12 @@ const todosData = [
         id: 6,
         text: "Catch up on Arrested Development",
         completed: true
+    },
+
+    {
+        id: 7,
+        text: "I love lukasz!",
+        completed: false
     }
 
 
