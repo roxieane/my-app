@@ -38,7 +38,7 @@ const todosData = [
 
     {
         id: 7,
-        text: "I love lukasz!",
+        text: "I love Alex!",
         completed: false
     }
 
