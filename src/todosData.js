@@ -28,7 +28,15 @@ const todosData = [
         id: 5,
         text: "Catch up on Arrested Development",
         completed: true
+    },
+
+    {
+        id: 6,
+        text: "Catch up on Arrested Development",
+        completed: true
     }
+
+
 ]
 
 export default todosData

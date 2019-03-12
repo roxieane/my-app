@@ -21,8 +21,11 @@ class App extends Component {
         const itemschool = this.state.todo.map(item => <TodoItem key={item.id} todolist={item} handleChange={this.handleChange} />)
         
         return(
-            <div className="todo-list">
-                {itemschool}
+            <div>
+                <div className="todo-list">
+                
+                    {itemschool}
+                </div>
             </div>
         )
     }
